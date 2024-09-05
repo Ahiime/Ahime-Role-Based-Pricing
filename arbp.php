@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Ahime Role-Based Pricing
- * Plugin URI:        https:// https://github.com/Ahiime/Ahime-Role-Based-Pricing
+ * Plugin URI:        https://github.com/Ahiime/Ahime-Role-Based-Pricing
  * Description:       Adjust pricing for individual customers and user roles with advanced features.
  * Version:           1.0.0
  * Author:            Ahime
